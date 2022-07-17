@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About me"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Posts"
+    url: /posts/
+  - title: "Gallery"
+    url: /gallery/
