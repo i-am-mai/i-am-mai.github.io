@@ -26,10 +26,11 @@ baseurl: / # the subpath of your site, e.g. /blog
 url: https://i-am-mai.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
