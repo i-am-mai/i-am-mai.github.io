@@ -192,3 +192,5 @@ I guess the world will never know what the apparently super popular subreddit r/
 
 # What did I learn?
 That Reddit is apparently full of NSFW content and spammy-botty posts, though this is probably because I took the most recent posts (and therefore posts that hadn't yet had time to be removed). I do hope to do more data analysis with Reddit though, particularly looking at the age of accounts that post.
+
+Here's a link to the data that I collected: [reddit.csv](/assets/data/reddit.csv)
