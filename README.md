@@ -1,2 +1,2 @@
 # i-am-mai.github.io
-Personal portfolio
+My personal portfolio, and a collection of blog posts.
