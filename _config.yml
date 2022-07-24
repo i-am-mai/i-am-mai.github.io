@@ -90,6 +90,13 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:tran.mai@ufl.edu"
 
+social:
+  type: Person
+  name: Mai Tran
+  link:
+    - "https://www.linkedin.com/in/mai-tran-aa99a9220/"
+    - "https://github.com/i-am-mai"
+
 footer:
   links:
     - label: "Github"
