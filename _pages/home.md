@@ -4,7 +4,7 @@ layout: home
 excerpt: "**Hi!** I'm Mai, a Computer Science student at the University of Florida."
 header:
     overlay_image: /assets/images/home.jpg
-    overlay_filter: linear-gradient(45deg, rgba(0, 232, 255, 0.3), rgba(255, 0, 197, 0.5))
+    overlay_filter: 0.4
 title: hello, world
 ---
 # Hi!
