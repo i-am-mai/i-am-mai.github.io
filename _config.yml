@@ -77,7 +77,7 @@ defaults:
 author:
   name: "Mai Tran"
   avatar: "/assets/images/panda.png"
-  bio: "CS-and-a-bunch-of-other-things-mildly student. Always ready to learn."
+  bio: "CS-and-a-bunch-of-other-things-mildly interested. Always ready to learn."
   location: "Pensacola &rarr; Gainesville, FL"
   links:
     - label: "Github"
