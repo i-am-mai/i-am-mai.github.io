@@ -31,6 +31,10 @@ minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-compress-images
+
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
