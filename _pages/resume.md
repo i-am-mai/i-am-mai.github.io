@@ -3,7 +3,7 @@ permalink: /resume/
 title: resume
 excerpt: the opposite of pause...
 header:
-    overlay_image: assets/images/resume.jpg
+    overlay_image: assets/images/resume.webp
     overlay_filter: linear-gradient(rgba(130, 0, 125, 0.25), rgba(0, 0, 0, 0.5))
 toc: true
 toc_label: "resume"

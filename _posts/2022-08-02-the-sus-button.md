@@ -4,13 +4,9 @@ toc: true
 toc_sticky: true
 excerpt: What could be better for a plunge into Android development than a simple family gag? Or so I thought...
 header:
-    overlay_image: /assets/images/2022-08-02.jpg
+    overlay_image: /assets/images/posts/the-sus-button/header.webp
     overlay_filter: linear-gradient(rgba(0, 0, 0, 0), rgba(255, 0, 0, 0.3))
-gallery:
-  - url: /assets/images/2022-08-02_1.png
-    image_path: /assets/images/2022-08-02_1_sm.png
-    alt: "Two buttons labeled 'Report'."
-    title: "The Sus Buttons"
+short: the-sus-button
 ---
 # An idea is born
 While on a brief shopping trip at the mall with my family, we had a running gag of playing the following sound effect when anyone made a slightly 'sus' joke.
@@ -59,7 +55,7 @@ Which (I think) basically just creates a `MediaPlayer` for each audio sample I w
 Now, it's probably better to just use a single `MediaPlayer` and have it switch the audio it plays, since that would probably use less resources, but at this point all I cared about was that it worked.
 
 # The final product
-{% include gallery caption="The Sus Buttons" %}
+{% include picture.html img="1_sm" ext="png" alt="Two buttons labeled 'Report'." caption="The Sus Buttons" %}
 Behold, the sus butons. The bottom button plays the audio that I linked above. The top, however, plays this audio:
 
 {% include video id="Regpv0xU3ZQ" provider="youtube" %}

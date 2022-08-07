@@ -1,6 +1,7 @@
 ---
 title:  "Second post!"
 date:   2022-07-14 12:12:00 -0500
+short: second-post
 ---
 Aha, you thought that the first post was going to be the only one dedicated to nothing.
 

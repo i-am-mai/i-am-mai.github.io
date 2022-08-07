@@ -1,6 +1,7 @@
 ---
 title:  "First post!"
 date:   2022-07-14 11:06:30 -0500
+short: first-post
 ---
 Welcome to my first post on the blog!
 

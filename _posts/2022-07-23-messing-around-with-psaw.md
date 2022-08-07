@@ -5,8 +5,9 @@ toc: true
 toc_sticky: true
 excerpt: Recently, I decided to mess around with PSAW, a Python wrapper for the Pushshift Reddit API, to see what kind of random data I could get from Reddit.
 header:
-    overlay_image: assets/images/2022-07-23.webp
+    overlay_image: assets/images/posts/messing-around-with-psaw/header.webp
     overlay_filter: rgba(180, 50, 50, 0.7)
+short: messing-around-with-psaw
 ---
 Recently, I decided to mess around with PSAW, a Python wrapper for the Pushshift Reddit API. All I really planned to do was to gather some random posts from Reddit and see what statistics I could get from it.
 
@@ -52,7 +53,7 @@ After a quick browse of post titles and authors, I noticed that some of the titl
 
 If you're unfamiliar, what I mean by *auto-generated name* is that when you make a new Reddit account, some names are automatically suggested for you. These names follow a fairly standard pattern that you'll see in the following screenshot, which appears when you make a new account:
 
-{% include figure image_path="/assets/images/2022-07-23_1.png" alt="Reddit's pop-up when you create an account" caption="The pop-up for new account creation"%}
+{% include picture.html img="1" ext="jpg" alt="Reddit's pop-up when you create an account" caption="The pop-up for new account creation"%}
 
 As you can see, the pattern for these auto-generated names is as follows:
 
@@ -122,7 +123,7 @@ I found that of the posts that used emojis, **81.1% of them were NSFW**, while *
 # \[Brackets101\]
 Something that often appears in Reddit titles is brackets [], at least from what I know. These brackets are usually used to identify someone's gender and age, i.e. \[23F\] would mean a 23 year old female.
 
-{% include figure image_path="/assets/images/2022-07-23_2.png" alt="A post from the 'relationships' subreddit" caption="Sample usage of brackets for gender and age."%}
+{% include picture.html img="2" ext="png" alt="A post from the 'relationships' subreddit" caption="Sample usage of brackets for gender and age."%}
 
 So, I used the regex to filter the posts that had brackets in the title: 
 
@@ -186,7 +187,7 @@ Prueba0101: 200
 ```
 Like, what? Of the subreddits here, I only recognized a few: AskReddit, teenagers, and relationship_advice. And the rest seemed to be apparently NSFW subreddits. Two days after I did this analysis, I went back and checked to see what the top-posted subreddit **r/Prueba0101** even was, and was greeted with this page:
 
-{% include figure image_path="/assets/images/2022-07-23_3.png" alt="r/Prueba0101 was banned for violating Reddit rules." %}
+{% include picture.html img="3" ext="png" alt="r/Prueba0101 was banned for violating Reddit rules." %}
 
 I guess the world will never know what the apparently super popular subreddit r/Prueba0101 held <sub>(though I suspect that they may have broken Rule 2: No content manipulation)</sub>
 

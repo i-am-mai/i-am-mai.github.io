@@ -1,0 +1,7 @@
+<figure>
+    <picture>
+        <source type="image/webp" srcset="/assets/images/posts/{{ page.short }}/{{ include.img }}.webp">
+        <img src="/assets/images/posts/{{ page.short }}/{{ include.img }}.{{ include.ext }}" alt="{{ include.alt | default: Image }}">
+    </picture>
+    <figcaption>{{ include.caption }}</figcaption>
+</figure>

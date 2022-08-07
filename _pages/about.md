@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 header:
-    overlay_image: /assets/images/about.jpg
+    overlay_image: /assets/images/about.webp
     overlay_filter: linear-gradient(rgba(255, 81, 248, 0.1), rgba(0, 0, 255, 0.1))
 title: about me
 excerpt: i.e. what does me mean?
