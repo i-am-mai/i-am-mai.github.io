@@ -36,10 +36,9 @@ toc_sticky: true
     - Worked in a team to build a space-themed art exhibition incorporating engineering elements
     - Programmed and wired together LEDs to resemble the night sky
     - Exhibition displayed at the Cade Museum for Creativitiy and Invention
-
 - **Society of Women Engineers**
     - Member of organization working to promote UF female engineering students' success
 - **Honor Chords**
     - Rehearsed and performed as a part of the UF Honors official a capella group.
-- **Honors & Aprons**
-    - Member of the official UF Honors cooking club, learning and promoting different cuisines from across the world.
+- **Hitchcock Field & Fork Pantry**
+    - Weekly volunteer for the UF food pantry, addressing food insecurity within the UF community.
