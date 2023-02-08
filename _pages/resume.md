@@ -22,23 +22,24 @@ toc_sticky: true
 - Data Structures and Algorithms (in progress)
 
 # Skills
-- **Programming**: C/C++, Java, Python, HTML/CSS/JavaScript, Arduino
+- **Programming**: C/C++, Java, Python, HTML/CSS/JavaScript, Go, Arduino
 - **Version Control**: Git
 - **Database**: SQLite
 - **Microsoft Office**: Excel, Word
 
-# Research
-**Societal Attitudes on Addiction**
-- Conducted research into social stigma towards addicts, and common preconceptions of who an addict is.
+# Experience
+**Undergraduate Teaching Assistant**, University of Florida
+- Led weekly discussion sections for Applications of Discrete Structures, reviewing lecture content and answering students' questions.
+- Held weekly office hours to discuss course content with students outside of class.
 
 # Involvement
 - **STEAM Team**, Society of Women Engineers
-    - Worked in a team to build a space-themed art exhibition incorporating engineering elements
-    - Programmed and wired together LEDs to resemble the night sky
-    - Exhibition displayed at the Cade Museum for Creativitiy and Invention
+    - Worked in a team to build a space-themed art exhibition incorporating engineering elements.
+    - Programmed and wired together LEDs to resemble the night sky.
+    - Exhibition displayed at the Cade Museum for Creativitiy and Invention.
 - **Society of Women Engineers**
-    - Member of organization working to promote UF female engineering students' success
+    - Member of organization working to promote UF female engineering students' success.
 - **Honor Chords**
     - Rehearsed and performed as a part of the UF Honors official a capella group.
 - **Hitchcock Field & Fork Pantry**
-    - Weekly volunteer for the UF food pantry, addressing food insecurity within the UF community.
+    - Weekly volunteer for the UF food pantry, helping address food insecurity within the UF community.
