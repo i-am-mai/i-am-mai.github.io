@@ -9,4 +9,4 @@ title: hello, world
 ---
 # Hi!
 
-My name is Mai, and I'm currently a sophomore studying computer science at the University of Florida. I'm interested in artificial intelligence &mdash; particularly how the methods we use today can be improved and how we can achieve general intelligence.
+My name is Mai, and I'm currently a junior studying computer science at the University of Florida. I'm interested in all things computer science/software/hardware related, and pretty much any kind of math!

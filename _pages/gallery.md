@@ -3,6 +3,9 @@ permalink: /gallery/
 title: gallery
 classes: wide
 gallery: 
+  - image_path: assets/images/gallery/7-th.webp
+    url: assets/images/gallery/7.jpg
+    title: "STEAM Team 2022-2023!"
   - image_path: assets/images/gallery/6-th.webp
     url: assets/images/gallery/6.jpg
     title: "The Light-a-phone!"
