@@ -22,7 +22,7 @@ So, for most of my life I've had to get around town using a car, and one of the 
 Just parking alone takes up [26% of downtown Houston](https://www.houstonchronicle.com/news/houston-texas/article/downtown-houston-parking-one-quarter-area-17888647.php). Which made me wonder: how much parking really is there?
 
 # The Parking Calculator
-So, I created a website that dipslays all of the parking in an area, as well as how much space it uses.
+So, I created a website that displays all of the parking in an area, as well as how much space it uses.
 
 {% include picture.html img="3" ext="png" alt="Screenshot of the parking calculator website." caption="The Parking Calculator! The outlined blue areas represent spaces used for parking, and the purple circle represents the combined area of all the parking spaces." %}
 
