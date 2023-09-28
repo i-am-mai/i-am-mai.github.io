@@ -52,6 +52,6 @@ The calculator also displays the total parking area, an estimation of the number
 
 {% include picture.html img="4" ext="png" alt="Parking results for the University of Florida" caption="Parking results for the University of Florida" %}
 
-You can try it out here: [Parking Calculator](https://parkingcalculator.com)
+You can try it out here: [Parking Calculator](https://parkingcalculator.app)
 
 And here's a link to the [source code](https://github.com/i-am-mai/parking-calculator).
