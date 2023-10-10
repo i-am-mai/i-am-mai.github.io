@@ -18,10 +18,6 @@ toc_sticky: true
 **Pensacola High School** | Pensacola, FL
 - Diploma with Honors, 4.0 GPA, May 2021
 
-# Relevant Coursework
-- Programming Fundamentals 1 and 2
-- Data Structures and Algorithms (in progress)
-
 # Skills
 - **Programming**: C/C++, Java, Python, HTML/CSS/JavaScript, Go, Arduino
 - **Version Control**: Git
