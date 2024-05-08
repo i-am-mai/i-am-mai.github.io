@@ -43,7 +43,7 @@ So what is a 'Hackenbush'? And why are we hacking in bushes?
 # Dots and Lines
 Hackenbush (or at least the Red-Blue version) is a game made by John Conway (of Conway's Game of Life). It looks a little something like this:
 
-{% include picture.html img="hackenbush" ext="png" alt="A Hackenbush board with red and blue edges that looks like a girl." caption="A typical Red-Blue Hackenbush board"%}
+{% include picture.html img="hackenbush" ext="png" alt="A Hackenbush board with red and blue edges that looks like a girl." caption="A typical Hackenbush board"%}
 
 You start with a 'ground line' and some red, blue, and green edges that are connected to the ground line. Two players, which we'll call **Left** and **Right**, take turns 'hacking off' edges from the board. Left can remove blue edges, Right can remove red edges, and either player may remove green edges. Any edge that is no longer connected to the ground 'falls off' the graph, and the last player to make a move wins.
 
