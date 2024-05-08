@@ -59,7 +59,7 @@ Either we have that:
  3. The first player to move wins, or ($\mathcal{N}$)
  4. The second player wins. ($\mathcal{P}$)
 
-These outcomes are called *Positive*, *Negative*, *Fuzzy*, and *Zero*, and you can think of them as being ordered by their favorability towards Left. Positive games are greater than Fuzzy and Zero games, and Fuzzy and Zero games are greater than Negative games, but Fuzzy games are *incomparable* with Zero games.
+These outcomes are called *Positive*, *Negative*, *Fuzzy*, and *Zero*, respectively, and you can think of them as being ordered by their favorability towards Left. Positive games are greater than Fuzzy and Zero games, and Fuzzy and Zero games are greater than Negative games, but Fuzzy games are *incomparable* with Zero games.
 
 {% include picture.html img="partial_order" ext="png" alt="A Hasse diagram depicting the partial orders described above." caption="The ordering of the outcome classes." %}
 
@@ -119,7 +119,7 @@ It turns out that you can get all of the integers, rationals, reals, and even th
 ## Numbers in Games
 This construction of the numbers gives us a definition for which *games* are numbers: the games where all the Left options are *strictly less* than all the Right options. So something like $\lbrace -1 \mid 1 \rbrace$ is a game, but not $\lbrace 0 \mid 0 \rbrace$ because $0 \nless 0$. What does this mean in practice?
 
-Essentially, there has to be a *disincentive* to move for both players: on moving, each players' position will always become worse. Since we think about the value of games in terms of Left's move advantage, this means that the value of the game *decreases* when Left moves, and *increases* when Right moves. So the value of the game itself lies strictly in between the values of its Left options and Right options.
+Essentially, there has to be a *disincentive* to move for both players: on moving, each player's position will always become worse. Since we think about the value of games in terms of Left's move advantage, this means that the value of the game *decreases* when Left moves, and *increases* when Right moves. So the value of the game itself lies strictly in between the values of its Left options and Right options.
 
 For Hackenbush, only the games with no green edges obey this rule (since if there were a green edge, it could be removed by either Left or Right, giving us a game in Left's options with the same value as a game in Right's options, which breaks the 'strictness' we wanted!)
 
@@ -157,7 +157,7 @@ The second player will always win this game, so $* + * = 0$, and $ * $ is its ow
 These 'star' numbers are called the *nimbers* from the game Nim, and it turns out that addition with nimbers behaves just like bitwise XOR if we convert the length of each green stalk to a binary number.
 
 # and more!
-This post is adapted from a paper that I wrote as a final project for my Combinatorics class. It goes into a little bit more detail of the math behind combinatorial games, and if you're interested you can [read it here](/assets/data/Hackenbush_Project.pdf) (fair warning -- this was written in a state of delirium over a short period of time and probably has several typos). As part of the project, I made a little visualization of Hackenbush stalks as numbers that you can find [here](https://hackenbush-number-line-99ae93d49ee6.herokuapp.com/app) (and [here's](https://github.com/i-am-mai/hackenbush) the source code).
+This post is adapted from a paper that I wrote as a final project for my Combinatorics class. It goes into a little bit more detail of the math behind combinatorial games, and if you're interested you can [read it here](/assets/data/Hackenbush_Project.pdf) (fair warning -- this was written in a state of delirium over a very short period of time and probably has several typos). As part of the project, I made a little visualization of Hackenbush stalks as numbers that you can find [here](https://hackenbush-number-line-99ae93d49ee6.herokuapp.com/app) (and [here's](https://github.com/i-am-mai/hackenbush) the source code).
 
 {% include picture.html img="website" ext="png" alt="Hackenbush stalks on a number line from -5 to 5" caption="My website!" %}
 
@@ -165,4 +165,4 @@ It show which numbers on the number line are 'born' by which days, and the Hacke
 
 If you're interested in reading more about the surreal numbers, I highly recommend Donald Knuth's book [*Surreal Numbers*](https://www.goodreads.com/en/book/show/484458). It's a fairly easy read and takes you along the journey of creating the surreal numbers in a natural way. And it's fun! Very untextbook-like.
 
-I also recommend [*Winning Ways for your Mathematical Plays](https://en.wikipedia.org/wiki/Winning_Ways_for_Your_Mathematical_Plays), by Berlekamp, Conway, and Guy. It's another pretty easy read and talks more about different combinatorial games (and also more about Hackenbush)! The math is also not too math-like in here too, so even if you're not a 'math person' I think you'd still enjoy it.
+I also recommend [*Winning Ways for your Mathematical Plays*](https://en.wikipedia.org/wiki/Winning_Ways_for_Your_Mathematical_Plays), by Berlekamp, Conway, and Guy. It's another pretty easy read and talks more about different combinatorial games (and also more about Hackenbush)! The math is also not too math-like in here too, so even if you're not a 'math person' I think you'd still enjoy it.
