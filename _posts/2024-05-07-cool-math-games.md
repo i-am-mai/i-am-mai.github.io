@@ -51,7 +51,7 @@ Hackenbush is an example of a *combinatorial game* -- which basically means that
 
 So who wins? There are four outcome classes that every Hackenbush game falls under, and here are some games to illustrate them.
 
-{% include gallery id="outcomes" layout="half" caption="The four outcome classes, from left-right top-down: $\mathcal{L}$, $\mathcal{R}$, $\mathcal{P}$, and $\mathcal{N}$." %}
+{% include gallery id="outcomes" layout="half" caption="The four outcome classes, from left-right top-down: $\mathcal{L}$, $\mathcal{R}$, $\mathcal{N}$, and $\mathcal{P}$." %}
 
 Either we have that:
  1. Left always wins ($\mathcal{L}$)
