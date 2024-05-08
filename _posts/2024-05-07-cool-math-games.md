@@ -108,11 +108,11 @@ The construction of the surreal numbers begins as follows:
 
 Now you might be a bit skeptical since we define what a number is using two sets of numbers -- isn't that kind of circular? It is a recursive definition, but we don't have to define a base case because there already is one: the number where $L$ and $R$ are both the empty set. Since the empty set has no members, it isn't possible for any member of $L$ to be $\geq$ any member of $R$, so $\lbrace \space \mid \space \rbrace$ is a number! And since it's the 'first number' we can create, we'll call this number $0$.
 
-And since the empty set is kind of special in that we can use it to 'vacuously' prove any statement about members of a set, we know that any $\lbrace L \mid R \rbrace$ where either $L$ or $R$ is the empty set is also a number!
+Because the empty set is kind of special in that we can use it to 'vacuously' prove any statement about members of a set, we know that any $\lbrace L \mid R \rbrace$ where either $L$ or $R$ is the empty set is also a number!
 
-So you get a natural representation of the integers by letting $k = \lbrace k - 1 \mid \space \rbrace$ and $-k = \lbrace \space \mid -k + 1 \rbrace$, and you can think about the 'day' that each number is born as the 'iteration' of the recursive algorithm that creates the number.
+So you get a natural representation of the integers by letting $k = \lbrace k - 1 \mid \space \rbrace$ and $-k = \lbrace \space \mid -(k - 1) \rbrace$, and you can think about the 'day' that each number is born as the 'iteration' of the recursive algorithm that creates the number.
 
-It turns out that you can get all of the integers, rationals, reals, and even things that aren't real numbers like infinite numbers and infinitesimals!
+It turns out that with this construction, you can make all of the integers, rationals, reals, and even things that aren't real numbers like infinite numbers and infinitesimals!
 
 {% include picture.html img="surreals" ext="png" alt="The surreal number line" caption="The surreal number line" %}
 
