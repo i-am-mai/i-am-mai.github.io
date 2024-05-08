@@ -29,7 +29,7 @@ For one of my classes, I had a group project where we had to design a prototype 
 
 The **Light-a-phone**! Or, a xylophone that would light up for each key that you hit. Along with the xylophone was a game that would test your memory skills by having you repeat the pattern that the xylophone plays. 
 
-{% include picture.html img="1" ext="jpg" alt="A sketch of the Light-a-phone: A rectangle with 5 smaller rectangles within it." caption="Sketch of the Light-a-phone" %}
+{% include picture.html img="1" ext="jpg" alt="A sketch of the Light-a-phone: A rectangle with 5 smaller rectangles within it." caption="Sketch of the Light-a-phone"%}
 
 
 Seems fairly simple, right?
