@@ -81,7 +81,7 @@ defaults:
 author:
   name: "Mai Tran"
   avatar: "/assets/images/pixel.webp"
-  bio: "CS-and-a-bunch-of-other-things-mildly interested. Always ready to learn."
+  bio: "currently: relearning art stuff"
   location: "Pensacola &rarr; Gainesville, FL"
   links:
     - label: "Github"
@@ -89,7 +89,7 @@ author:
       url: "https://github.com/i-am-mai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mai-tran-aa99a9220/"
+      url: "https://www.linkedin.com/in/i-am-mai/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:tran.mai@ufl.edu"

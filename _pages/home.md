@@ -9,4 +9,4 @@ title: hello, world
 ---
 # Hi!
 
-My name is Mai, and I'm currently a junior studying computer science at the University of Florida. I'm interested in all things computer science/software/hardware related, and pretty much any kind of math!
+My name is Mai, and I'm currently a senior (:o) studying computer science and math at the University of Florida. I'm interested in pretty much anything related to CS/math/science in general and art/music.

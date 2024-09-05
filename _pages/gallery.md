@@ -25,6 +25,6 @@ gallery:
     url: assets/images/gallery/5.png
     title: "HP-Camp: a Harry Potter-themed chemistry camp."
 ---
-Some highlights from the past year or so...
+pictures!
 
 {% include gallery layout="half" %}
