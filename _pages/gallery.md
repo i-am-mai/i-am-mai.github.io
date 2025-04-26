@@ -3,6 +3,12 @@ permalink: /gallery/
 title: gallery
 classes: wide
 gallery: 
+  - image_path: assets/images/gallery/9-th.webp
+    url: assets/images/gallery/9.jpg
+    title: "STEAM Team 2024-2025!"
+  - image_path: assets/images/gallery/8-th.webp
+    url: assets/images/gallery/8.png
+    title: "SyncAssist (est. 2024)"
   - image_path: assets/images/gallery/7-th.webp
     url: assets/images/gallery/7.jpg
     title: "STEAM Team 2022-2023!"
