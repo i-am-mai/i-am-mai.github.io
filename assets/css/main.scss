@@ -26,3 +26,20 @@ $h-size-6: 1em; // ~16px
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.visually-hidden,
+.screen-reader-text,
+.screen-reader-text span,
+.screen-reader-shortcut,
+.sr-only,
+.sr-only-focusable:not(:focus) {
+  position: absolute !important;
+  clip: rect(0, 0, 0, 0);
+  height: 1px !important;
+  width: 1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  margin: -1px;
+  overflow: hidden;
+  white-space: nowrap;
+}

@@ -12,7 +12,7 @@ toc_sticky: true
 ---
 # Education
 **University of Florida** | Gainesville, FL
-- B.S. in Computer Science and Mathematics, expected May 2025
+- B.S. in Computer Science and Mathematics, May 2025
 - 3.98 GPA
 
 # Skills
@@ -21,6 +21,8 @@ toc_sticky: true
 - **Database**: SQLite
 
 # Experience
+**Software Engineer II**, Walmart Global Tech *(July 2025 - ?)*
+
 **Software Engineering Intern**, Walmart Global Tech *(June 2024 - Aug. 2024)*
 - Developed web app using React to allow bulk updates of Sam's memberships.
 - Wrote automated end-to-end tests for the Express Membership app using Cypress.

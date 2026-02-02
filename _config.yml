@@ -20,8 +20,7 @@
 
 title: Mai Tran
 description: >- # this means to ignore newlines until "baseurl:"
-  Mai Tran is an undergraduate computer science student at the University
-  of Florida. 
+  Hi! I'm Mai, a (former) student at the University of Florida, (current) software engineer, (future) ______________ ?
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://i-am-mai.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -80,9 +79,9 @@ defaults:
 
 author:
   name: "Mai Tran"
-  avatar: "/assets/images/pixel.webp"
+  avatar: "/assets/images/new-new-pfp.png"
   bio: "currently: relearning art stuff"
-  location: "Pensacola &rarr; Gainesville, FL"
+  location: "Pensacola, FL &rarr; NWA"
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
@@ -92,13 +91,13 @@ author:
       url: "https://www.linkedin.com/in/i-am-mai/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tran.mai@ufl.edu"
+      url: "mailto:mai.t.tran1743@gmail.com"
 
 social:
   type: Person
   name: Mai Tran
   link:
-    - "https://www.linkedin.com/in/mai-tran-aa99a9220/"
+    - "https://www.linkedin.com/in/i-am-mai/"
     - "https://github.com/i-am-mai"
 
 footer:
@@ -108,10 +107,7 @@ footer:
       url: "https://github.com/i-am-mai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mai-tran-aa99a9220/"
+      url: "https://www.linkedin.com/in/i-am-mai/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:tran.mai@ufl.edu"
-    - label: "Call"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:850-716-3269"
+      url: "mailto:mai.t.tran1743@gmail.com"
